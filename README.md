@@ -1,1 +1,1 @@
-## Basic Preprocessing and Modelling with The Titanic Datase
+## Basic Preprocessing and Modelling with The Titanic Dataset
